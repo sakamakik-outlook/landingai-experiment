@@ -1,0 +1,2627 @@
+{
+  "voice_usage_records": [
+    {
+      "date": {
+        "value": "Dim 27 avril",
+        "references": [
+          "0-2U"
+        ]
+      },
+      "time": {
+        "value": "14:01",
+        "references": [
+          "0-2V"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "0-2Y"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "0-30"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 28 avril",
+        "references": [
+          "0-36"
+        ]
+      },
+      "time": {
+        "value": "18:52",
+        "references": [
+          "0-37"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "0-3a"
+        ]
+      },
+      "duration": {
+        "value": "5:00",
+        "references": [
+          "0-3c"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 28 avril",
+        "references": [
+          "0-36",
+          "0-3i"
+        ]
+      },
+      "time": {
+        "value": "19:17",
+        "references": [
+          "0-3j"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "0-3m"
+        ]
+      },
+      "duration": {
+        "value": "19:00",
+        "references": [
+          "0-3o"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 28 avril",
+        "references": [
+          "0-36",
+          "0-3u"
+        ]
+      },
+      "time": {
+        "value": "21:06",
+        "references": [
+          "0-3v"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "0-3y"
+        ]
+      },
+      "duration": {
+        "value": "50:00",
+        "references": [
+          "0-3A"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 29 avril",
+        "references": [
+          "0-3G"
+        ]
+      },
+      "time": {
+        "value": "13:42",
+        "references": [
+          "0-3H"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "0-3K"
+        ]
+      },
+      "duration": {
+        "value": "7:00",
+        "references": [
+          "0-3M"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 29 avril",
+        "references": [
+          "0-3G",
+          "0-3S"
+        ]
+      },
+      "time": {
+        "value": "13:53",
+        "references": [
+          "0-3T"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "0-3W"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "0-3Y"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 29 avril",
+        "references": [
+          "0-3G",
+          "1-j"
+        ]
+      },
+      "time": {
+        "value": "14:48",
+        "references": [
+          "1-k"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-o"
+        ]
+      },
+      "duration": {
+        "value": "12:00",
+        "references": [
+          "1-q"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 29 avril",
+        "references": [
+          "0-3G",
+          "1-w"
+        ]
+      },
+      "time": {
+        "value": "17:23",
+        "references": [
+          "1-x"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-B"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "1-D"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 29 avril",
+        "references": [
+          "0-3G",
+          "1-J"
+        ]
+      },
+      "time": {
+        "value": "18:00",
+        "references": [
+          "1-K"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-O"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-Q"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 29 avril",
+        "references": [
+          "0-3G",
+          "1-W"
+        ]
+      },
+      "time": {
+        "value": "18:09",
+        "references": [
+          "1-X"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-11"
+        ]
+      },
+      "duration": {
+        "value": "28:00",
+        "references": [
+          "1-13"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 29 avril",
+        "references": [
+          "0-3G",
+          "1-19"
+        ]
+      },
+      "time": {
+        "value": "18:40",
+        "references": [
+          "1-1a"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-1e"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "1-1g"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m"
+        ]
+      },
+      "time": {
+        "value": "10:00",
+        "references": [
+          "1-1n"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-1r"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-1t"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m",
+          "1-1Z"
+        ]
+      },
+      "time": {
+        "value": "10:13",
+        "references": [
+          "1-1A"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-1E"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-1G"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m",
+          "1-1M"
+        ]
+      },
+      "time": {
+        "value": "10:29",
+        "references": [
+          "1-1N"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-1R"
+        ]
+      },
+      "duration": {
+        "value": "8:00",
+        "references": [
+          "1-1T"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m",
+          "1-1Z"
+        ]
+      },
+      "time": {
+        "value": "10:43",
+        "references": [
+          "1-20"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-24"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "1-26"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m",
+          "1-2c"
+        ]
+      },
+      "time": {
+        "value": "10:49",
+        "references": [
+          "1-2d"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-2h"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "1-2j"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m",
+          "1-2p"
+        ]
+      },
+      "time": {
+        "value": "18:25",
+        "references": [
+          "1-2q"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-2u"
+        ]
+      },
+      "duration": {
+        "value": "7:00",
+        "references": [
+          "1-2w"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m",
+          "1-2C"
+        ]
+      },
+      "time": {
+        "value": "20:12",
+        "references": [
+          "1-2D"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-2H"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-2J"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 30 avril",
+        "references": [
+          "1-1m",
+          "2-j"
+        ]
+      },
+      "time": {
+        "value": "22:06",
+        "references": [
+          "2-k"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-o"
+        ]
+      },
+      "duration": {
+        "value": "6:00",
+        "references": [
+          "2-q"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 01 mai",
+        "references": [
+          "1-2P"
+        ]
+      },
+      "time": {
+        "value": "14:36",
+        "references": [
+          "1-2Q"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-2U"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-2W"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 01 mai",
+        "references": [
+          "1-2P",
+          "1-32"
+        ]
+      },
+      "time": {
+        "value": "15:52",
+        "references": [
+          "1-33"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-37"
+        ]
+      },
+      "duration": {
+        "value": "7:00",
+        "references": [
+          "1-39"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 01 mai",
+        "references": [
+          "1-2P",
+          "1-3f"
+        ]
+      },
+      "time": {
+        "value": "16:57",
+        "references": [
+          "1-3g"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-3k"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-3m"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 01 mai",
+        "references": [
+          "1-2P",
+          "1-3s"
+        ]
+      },
+      "time": {
+        "value": "17:32",
+        "references": [
+          "1-3t"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-3x"
+        ]
+      },
+      "duration": {
+        "value": "4:00",
+        "references": [
+          "1-3z"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 01 mai",
+        "references": [
+          "1-2P",
+          "1-3F"
+        ]
+      },
+      "time": {
+        "value": "20:42",
+        "references": [
+          "1-3G"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-3K"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-3M"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 01 mai",
+        "references": [
+          "1-2P",
+          "1-3S"
+        ]
+      },
+      "time": {
+        "value": "20:43",
+        "references": [
+          "1-3T"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-3X"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "1-3Z"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 01 mai",
+        "references": [
+          "1-2P",
+          "1-45"
+        ]
+      },
+      "time": {
+        "value": "22:25",
+        "references": [
+          "1-46"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-4a"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "1-4c"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 02 mai",
+        "references": [
+          "1-4i"
+        ]
+      },
+      "time": {
+        "value": "09:27",
+        "references": [
+          "1-4j"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-4n"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-4p"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 02 mai",
+        "references": [
+          "1-4i",
+          "1-4v"
+        ]
+      },
+      "time": {
+        "value": "12:42",
+        "references": [
+          "1-4w"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-4A"
+        ]
+      },
+      "duration": {
+        "value": "6:00",
+        "references": [
+          "1-4C"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 02 mai",
+        "references": [
+          "1-4i",
+          "1-4I"
+        ]
+      },
+      "time": {
+        "value": "17:15",
+        "references": [
+          "1-4J"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-4N"
+        ]
+      },
+      "duration": {
+        "value": "19:00",
+        "references": [
+          "1-4P"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 03 mai",
+        "references": [
+          "1-4V"
+        ]
+      },
+      "time": {
+        "value": "14:15",
+        "references": [
+          "1-4W"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-50"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-52"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 03 mai",
+        "references": [
+          "1-4V",
+          "1-58"
+        ]
+      },
+      "time": {
+        "value": "15:53",
+        "references": [
+          "1-59"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-5d"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-5f"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 03 mai",
+        "references": [
+          "1-4V",
+          "1-5l"
+        ]
+      },
+      "time": {
+        "value": "17:41",
+        "references": [
+          "1-5m"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-5q"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-5s"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 03 mai",
+        "references": [
+          "1-4V",
+          "1-5y"
+        ]
+      },
+      "time": {
+        "value": "18:20",
+        "references": [
+          "1-5z"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-5D"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-5F"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 03 mai",
+        "references": [
+          "1-4V",
+          "1-5L"
+        ]
+      },
+      "time": {
+        "value": "19:05",
+        "references": [
+          "1-5M"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-5Q"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-5S"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 03 mai",
+        "references": [
+          "1-4V",
+          "1-5Y"
+        ]
+      },
+      "time": {
+        "value": "19:06",
+        "references": [
+          "1-5Z"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-63"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-65"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 03 mai",
+        "references": [
+          "1-4V",
+          "1-6b"
+        ]
+      },
+      "time": {
+        "value": "19:52",
+        "references": [
+          "1-6c"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-6g"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-6i"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p"
+        ]
+      },
+      "time": {
+        "value": "10:18",
+        "references": [
+          "2-2q"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-2u"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-2w"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-2C"
+        ]
+      },
+      "time": {
+        "value": "10:34",
+        "references": [
+          "2-2D"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-2H"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-2J"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-2P"
+        ]
+      },
+      "time": {
+        "value": "10:38",
+        "references": [
+          "2-2Q"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-2U"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-2W"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-32"
+        ]
+      },
+      "time": {
+        "value": "10:40",
+        "references": [
+          "2-33"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-37"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-39"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-3f"
+        ]
+      },
+      "time": {
+        "value": "10:46",
+        "references": [
+          "2-3g"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-3k"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-3m"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-3s"
+        ]
+      },
+      "time": {
+        "value": "13:24",
+        "references": [
+          "2-3t"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-3x"
+        ]
+      },
+      "duration": {
+        "value": "5:00",
+        "references": [
+          "2-3z"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-3F"
+        ]
+      },
+      "time": {
+        "value": "15:59",
+        "references": [
+          "2-3G"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-3K"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-3M"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-3S"
+        ]
+      },
+      "time": {
+        "value": "16:38",
+        "references": [
+          "2-3T"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-3X"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-3Z"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 17 mai",
+        "references": [
+          "2-2p",
+          "2-45"
+        ]
+      },
+      "time": {
+        "value": "17:21",
+        "references": [
+          "2-46"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-4a"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-4c"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 24 mai",
+        "references": [
+          "2-8u"
+        ]
+      },
+      "time": {
+        "value": "09:38",
+        "references": [
+          "2-8v"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-8z"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-8B"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Sam 24 mai",
+        "references": [
+          "2-8u",
+          "2-8H"
+        ]
+      },
+      "time": {
+        "value": "09:52",
+        "references": [
+          "2-8I"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-8M"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-8O"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Dim 04 mai",
+        "references": [
+          "1-6o"
+        ]
+      },
+      "time": {
+        "value": "16:48",
+        "references": [
+          "1-6p"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-6t"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "1-6v"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 05 mai",
+        "references": [
+          "1-6B"
+        ]
+      },
+      "time": {
+        "value": "10:47",
+        "references": [
+          "1-6C"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-6G"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "1-6I"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 05 mai",
+        "references": [
+          "1-6B",
+          "1-6O"
+        ]
+      },
+      "time": {
+        "value": "10:54",
+        "references": [
+          "1-6P"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-6T"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "1-6V"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 05 mai",
+        "references": [
+          "1-6B",
+          "1-71"
+        ]
+      },
+      "time": {
+        "value": "17:14",
+        "references": [
+          "1-72"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-76"
+        ]
+      },
+      "duration": {
+        "value": "5:00",
+        "references": [
+          "1-78"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 12 mai",
+        "references": [
+          "1-9k"
+        ]
+      },
+      "time": {
+        "value": "10:39",
+        "references": [
+          "1-9l"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-9p"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "1-9r"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 12 mai",
+        "references": [
+          "1-9k",
+          "1-9x"
+        ]
+      },
+      "time": {
+        "value": "17:14",
+        "references": [
+          "1-9y"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-9C"
+        ]
+      },
+      "duration": {
+        "value": "46:00",
+        "references": [
+          "1-9E"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 19 mai",
+        "references": [
+          "2-4i"
+        ]
+      },
+      "time": {
+        "value": "09:27",
+        "references": [
+          "2-4j"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-4n"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "2-4p"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 19 mai",
+        "references": [
+          "2-4i",
+          "2-4v"
+        ]
+      },
+      "time": {
+        "value": "10:24",
+        "references": [
+          "2-4w"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-4A"
+        ]
+      },
+      "duration": {
+        "value": "4:00",
+        "references": [
+          "2-4C"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 19 mai",
+        "references": [
+          "2-4i",
+          "2-4I"
+        ]
+      },
+      "time": {
+        "value": "10:52",
+        "references": [
+          "2-4J"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-4N"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-4P"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 26 mai",
+        "references": [
+          "2-8U"
+        ]
+      },
+      "time": {
+        "value": "08:15",
+        "references": [
+          "2-8V"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-8Z"
+        ]
+      },
+      "duration": {
+        "value": "7:00",
+        "references": [
+          "2-91"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 26 mai",
+        "references": [
+          "2-8U",
+          "2-97"
+        ]
+      },
+      "time": {
+        "value": "17:00",
+        "references": [
+          "2-98"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-9c"
+        ]
+      },
+      "duration": {
+        "value": "5:00",
+        "references": [
+          "2-9e"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 26 mai",
+        "references": [
+          "2-8U",
+          "2-9k"
+        ]
+      },
+      "time": {
+        "value": "17:50",
+        "references": [
+          "2-9l"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-9p"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-9r"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Lun 26 mai",
+        "references": [
+          "2-8U",
+          "2-9x"
+        ]
+      },
+      "time": {
+        "value": "17:55",
+        "references": [
+          "2-9y"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-9C"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-9E"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 06 mai",
+        "references": [
+          "1-7e"
+        ]
+      },
+      "time": {
+        "value": "10:42",
+        "references": [
+          "1-7f"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-7j"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-7l"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 06 mai",
+        "references": [
+          "1-7e",
+          "1-7r"
+        ]
+      },
+      "time": {
+        "value": "11:51",
+        "references": [
+          "1-7s"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-7w"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-7y"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 06 mai",
+        "references": [
+          "1-7e",
+          "1-7E"
+        ]
+      },
+      "time": {
+        "value": "13:30",
+        "references": [
+          "1-7F"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-7J"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-7L"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 06 mai",
+        "references": [
+          "1-7e",
+          "1-7R"
+        ]
+      },
+      "time": {
+        "value": "17:24",
+        "references": [
+          "1-7S"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-7W"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "1-7Y"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 13 mai",
+        "references": [
+          "1-9K"
+        ]
+      },
+      "time": {
+        "value": "12:49",
+        "references": [
+          "1-9L"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-9P"
+        ]
+      },
+      "duration": {
+        "value": "7:00",
+        "references": [
+          "1-9R"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 13 mai",
+        "references": [
+          "1-9K",
+          "1-9X"
+        ]
+      },
+      "time": {
+        "value": "17:41",
+        "references": [
+          "1-9Y"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-a2"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "1-a4"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 20 mai",
+        "references": [
+          "2-4V"
+        ]
+      },
+      "time": {
+        "value": "07:12",
+        "references": [
+          "2-4W"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-50"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-52"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 20 mai",
+        "references": [
+          "2-4V",
+          "2-58"
+        ]
+      },
+      "time": {
+        "value": "12:17",
+        "references": [
+          "2-59"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-5d"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-5f"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 20 mai",
+        "references": [
+          "2-4V",
+          "2-5l"
+        ]
+      },
+      "time": {
+        "value": "13:09",
+        "references": [
+          "2-5m"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-5q"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "2-5s"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 20 mai",
+        "references": [
+          "2-4V",
+          "2-5y"
+        ]
+      },
+      "time": {
+        "value": "17:09",
+        "references": [
+          "2-5z"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-5D"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-5F"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 20 mai",
+        "references": [
+          "2-4V",
+          "2-5L"
+        ]
+      },
+      "time": {
+        "value": "17:21",
+        "references": [
+          "2-5M"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-5Q"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "2-5S"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mar 20 mai",
+        "references": [
+          "2-4V",
+          "2-5Y"
+        ]
+      },
+      "time": {
+        "value": "19:23",
+        "references": [
+          "2-5Z"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-63"
+        ]
+      },
+      "duration": {
+        "value": "7:00",
+        "references": [
+          "2-65"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 07 mai",
+        "references": [
+          "1-84"
+        ]
+      },
+      "time": {
+        "value": "15:45",
+        "references": [
+          "1-85"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-89"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-8b"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 07 mai",
+        "references": [
+          "1-84",
+          "1-8h"
+        ]
+      },
+      "time": {
+        "value": "15:49",
+        "references": [
+          "1-8i"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-8m"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "1-8o"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 07 mai",
+        "references": [
+          "1-84",
+          "1-8u"
+        ]
+      },
+      "time": {
+        "value": "15:50",
+        "references": [
+          "1-8v"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-8z"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "1-8B"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 07 mai",
+        "references": [
+          "1-84",
+          "1-8H"
+        ]
+      },
+      "time": {
+        "value": "19:39",
+        "references": [
+          "1-8I"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-8M"
+        ]
+      },
+      "duration": {
+        "value": "5:00",
+        "references": [
+          "1-8O"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 14 mai",
+        "references": [
+          "2-2w"
+        ]
+      },
+      "time": {
+        "value": "13:42",
+        "references": [
+          "2-x"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-B"
+        ]
+      },
+      "duration": {
+        "value": "6:00",
+        "references": [
+          "2-D"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 14 mai",
+        "references": [
+          "2-2w",
+          "2-J"
+        ]
+      },
+      "time": {
+        "value": "18:40",
+        "references": [
+          "2-K"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-O"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-Q"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 14 mai",
+        "references": [
+          "2-2w",
+          "2-W"
+        ]
+      },
+      "time": {
+        "value": "18:50",
+        "references": [
+          "2-X"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-11"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-13"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Mer 14 mai",
+        "references": [
+          "2-2w",
+          "2-19"
+        ]
+      },
+      "time": {
+        "value": "19:08",
+        "references": [
+          "2-1a"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-1e"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "2-1g"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 08 mai",
+        "references": [
+          "1-8U"
+        ]
+      },
+      "time": {
+        "value": "12:57",
+        "references": [
+          "1-8V"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-8Z"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "1-91"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 08 mai",
+        "references": [
+          "1-8U",
+          "1-97"
+        ]
+      },
+      "time": {
+        "value": "17:55",
+        "references": [
+          "1-98"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "1-9c"
+        ]
+      },
+      "duration": {
+        "value": "5:00",
+        "references": [
+          "1-9e"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 15 mai",
+        "references": [
+          "2-1m"
+        ]
+      },
+      "time": {
+        "value": "14:27",
+        "references": [
+          "2-1n"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-1r"
+        ]
+      },
+      "duration": {
+        "value": "9:00",
+        "references": [
+          "2-1t"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 15 mai",
+        "references": [
+          "2-1m",
+          "2-1z"
+        ]
+      },
+      "time": {
+        "value": "18:46",
+        "references": [
+          "2-1A"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-1E"
+        ]
+      },
+      "duration": {
+        "value": "3:00",
+        "references": [
+          "2-1G"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 15 mai",
+        "references": [
+          "2-1m",
+          "2-1M"
+        ]
+      },
+      "time": {
+        "value": "18:49",
+        "references": [
+          "2-1N"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-1R"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "2-1T"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 15 mai",
+        "references": [
+          "2-1m",
+          "2-1Z"
+        ]
+      },
+      "time": {
+        "value": "22:06",
+        "references": [
+          "2-20"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-24"
+        ]
+      },
+      "duration": {
+        "value": "4:00",
+        "references": [
+          "2-26"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 15 mai",
+        "references": [
+          "2-1m",
+          "2-2c"
+        ]
+      },
+      "time": {
+        "value": "23:01",
+        "references": [
+          "2-2d"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-2h"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-2j"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 22 mai",
+        "references": [
+          "2-6b"
+        ]
+      },
+      "time": {
+        "value": "14:50",
+        "references": [
+          "2-6c"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-6g"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-6i"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 22 mai",
+        "references": [
+          "2-6b",
+          "2-6B"
+        ]
+      },
+      "time": {
+        "value": "19:43",
+        "references": [
+          "2-6C"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-6G"
+        ]
+      },
+      "duration": {
+        "value": "10:00",
+        "references": [
+          "2-6W"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Jeu 22 mai",
+        "references": [
+          "2-6b",
+          "2-6B"
+        ]
+      },
+      "time": {
+        "value": "21:11",
+        "references": [
+          "2-6C"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-6G"
+        ]
+      },
+      "duration": {
+        "value": "4:00",
+        "references": [
+          "2-6I"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O"
+        ]
+      },
+      "time": {
+        "value": "09:38",
+        "references": [
+          "2-6P"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-6T"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-6V"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O",
+          "2-71"
+        ]
+      },
+      "time": {
+        "value": "09:43",
+        "references": [
+          "2-72"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-76"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-78"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O",
+          "2-7e"
+        ]
+      },
+      "time": {
+        "value": "09:43",
+        "references": [
+          "2-7f"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-7j"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-7l"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O",
+          "2-7r"
+        ]
+      },
+      "time": {
+        "value": "12:59",
+        "references": [
+          "2-7s"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-7w"
+        ]
+      },
+      "duration": {
+        "value": "8:00",
+        "references": [
+          "2-7y"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O",
+          "2-7E"
+        ]
+      },
+      "time": {
+        "value": "17:29",
+        "references": [
+          "2-7F"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-7J"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "2-7L"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O",
+          "2-7R"
+        ]
+      },
+      "time": {
+        "value": "17:51",
+        "references": [
+          "2-7S"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-7W"
+        ]
+      },
+      "duration": {
+        "value": "1:00",
+        "references": [
+          "2-7Y"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O",
+          "2-84"
+        ]
+      },
+      "time": {
+        "value": "18:17",
+        "references": [
+          "2-85"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-89"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "2-8b"
+        ]
+      }
+    },
+    {
+      "date": {
+        "value": "Ven 23 mai",
+        "references": [
+          "2-6O",
+          "2-8h"
+        ]
+      },
+      "time": {
+        "value": "20:36",
+        "references": [
+          "2-8i"
+        ]
+      },
+      "called_location": {
+        "value": "MONTREAL PQ",
+        "references": [
+          "2-8m"
+        ]
+      },
+      "duration": {
+        "value": "2:00",
+        "references": [
+          "2-8o"
+        ]
+      }
+    }
+  ]
+}

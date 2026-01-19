@@ -1,0 +1,592 @@
+{
+  "voice_usage_records": [
+    {
+      "date": "Dim 27 avril",
+      "time": "14:01",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Lun 28 avril",
+      "time": "18:52",
+      "called_location": "MONTREAL PQ",
+      "duration": "5:00"
+    },
+    {
+      "date": "Lun 28 avril",
+      "time": "19:17",
+      "called_location": "MONTREAL PQ",
+      "duration": "19:00"
+    },
+    {
+      "date": "Lun 28 avril",
+      "time": "21:06",
+      "called_location": "MONTREAL PQ",
+      "duration": "50:00"
+    },
+    {
+      "date": "Mar 29 avril",
+      "time": "13:42",
+      "called_location": "MONTREAL PQ",
+      "duration": "7:00"
+    },
+    {
+      "date": "Mar 29 avril",
+      "time": "13:53",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Mar 29 avril",
+      "time": "14:48",
+      "called_location": "MONTREAL PQ",
+      "duration": "12:00"
+    },
+    {
+      "date": "Mar 29 avril",
+      "time": "17:23",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Mar 29 avril",
+      "time": "18:00",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 29 avril",
+      "time": "18:09",
+      "called_location": "MONTREAL PQ",
+      "duration": "28:00"
+    },
+    {
+      "date": "Mar 29 avril",
+      "time": "18:40",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "10:00",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "10:13",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "10:29",
+      "called_location": "MONTREAL PQ",
+      "duration": "8:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "10:43",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "10:49",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "18:25",
+      "called_location": "MONTREAL PQ",
+      "duration": "7:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "20:12",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mer 30 avril",
+      "time": "22:06",
+      "called_location": "MONTREAL PQ",
+      "duration": "6:00"
+    },
+    {
+      "date": "Jeu 01 mai",
+      "time": "14:36",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Jeu 01 mai",
+      "time": "15:52",
+      "called_location": "MONTREAL PQ",
+      "duration": "7:00"
+    },
+    {
+      "date": "Jeu 01 mai",
+      "time": "16:57",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Jeu 01 mai",
+      "time": "17:32",
+      "called_location": "MONTREAL PQ",
+      "duration": "4:00"
+    },
+    {
+      "date": "Jeu 01 mai",
+      "time": "20:42",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Jeu 01 mai",
+      "time": "20:43",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Jeu 01 mai",
+      "time": "22:25",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Ven 02 mai",
+      "time": "09:27",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Ven 02 mai",
+      "time": "12:42",
+      "called_location": "MONTREAL PQ",
+      "duration": "6:00"
+    },
+    {
+      "date": "Ven 02 mai",
+      "time": "17:15",
+      "called_location": "MONTREAL PQ",
+      "duration": "19:00"
+    },
+    {
+      "date": "Sam 03 mai",
+      "time": "14:15",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 03 mai",
+      "time": "15:53",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 03 mai",
+      "time": "17:41",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 03 mai",
+      "time": "18:20",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 03 mai",
+      "time": "19:05",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 03 mai",
+      "time": "19:06",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 03 mai",
+      "time": "19:52",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "10:18",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "10:34",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "10:38",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "10:40",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "10:46",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "13:24",
+      "called_location": "MONTREAL PQ",
+      "duration": "5:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "15:59",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "16:38",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 17 mai",
+      "time": "17:21",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 24 mai",
+      "time": "09:38",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Sam 24 mai",
+      "time": "09:52",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Dim 04 mai",
+      "time": "16:48",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Lun 05 mai",
+      "time": "10:47",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Lun 05 mai",
+      "time": "10:54",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Lun 05 mai",
+      "time": "17:14",
+      "called_location": "MONTREAL PQ",
+      "duration": "5:00"
+    },
+    {
+      "date": "Lun 12 mai",
+      "time": "10:39",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Lun 12 mai",
+      "time": "17:14",
+      "called_location": "MONTREAL PQ",
+      "duration": "46:00"
+    },
+    {
+      "date": "Lun 19 mai",
+      "time": "09:27",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Lun 19 mai",
+      "time": "10:24",
+      "called_location": "MONTREAL PQ",
+      "duration": "4:00"
+    },
+    {
+      "date": "Lun 19 mai",
+      "time": "10:52",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Lun 26 mai",
+      "time": "08:15",
+      "called_location": "MONTREAL PQ",
+      "duration": "7:00"
+    },
+    {
+      "date": "Lun 26 mai",
+      "time": "17:00",
+      "called_location": "MONTREAL PQ",
+      "duration": "5:00"
+    },
+    {
+      "date": "Lun 26 mai",
+      "time": "17:50",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Lun 26 mai",
+      "time": "17:55",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 06 mai",
+      "time": "10:42",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 06 mai",
+      "time": "11:51",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 06 mai",
+      "time": "13:30",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 06 mai",
+      "time": "17:24",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Mar 13 mai",
+      "time": "12:49",
+      "called_location": "MONTREAL PQ",
+      "duration": "7:00"
+    },
+    {
+      "date": "Mar 13 mai",
+      "time": "17:41",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Mar 20 mai",
+      "time": "07:12",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 20 mai",
+      "time": "12:17",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 20 mai",
+      "time": "13:09",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Mar 20 mai",
+      "time": "17:09",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mar 20 mai",
+      "time": "17:21",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Mar 20 mai",
+      "time": "19:23",
+      "called_location": "MONTREAL PQ",
+      "duration": "7:00"
+    },
+    {
+      "date": "Mer 07 mai",
+      "time": "15:45",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mer 07 mai",
+      "time": "15:49",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mer 07 mai",
+      "time": "15:50",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Mer 07 mai",
+      "time": "19:39",
+      "called_location": "MONTREAL PQ",
+      "duration": "5:00"
+    },
+    {
+      "date": "Mer 14 mai",
+      "time": "13:42",
+      "called_location": "MONTREAL PQ",
+      "duration": "6:00"
+    },
+    {
+      "date": "Mer 14 mai",
+      "time": "18:40",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mer 14 mai",
+      "time": "18:50",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Mer 14 mai",
+      "time": "19:08",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Jeu 08 mai",
+      "time": "12:57",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Jeu 08 mai",
+      "time": "17:55",
+      "called_location": "MONTREAL PQ",
+      "duration": "5:00"
+    },
+    {
+      "date": "Jeu 15 mai",
+      "time": "14:27",
+      "called_location": "MONTREAL PQ",
+      "duration": "9:00"
+    },
+    {
+      "date": "Jeu 15 mai",
+      "time": "18:46",
+      "called_location": "MONTREAL PQ",
+      "duration": "3:00"
+    },
+    {
+      "date": "Jeu 15 mai",
+      "time": "18:49",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Jeu 15 mai",
+      "time": "22:06",
+      "called_location": "MONTREAL PQ",
+      "duration": "4:00"
+    },
+    {
+      "date": "Jeu 15 mai",
+      "time": "23:01",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Jeu 22 mai",
+      "time": "14:50",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Jeu 22 mai",
+      "time": "19:43",
+      "called_location": "MONTREAL PQ",
+      "duration": "10:00"
+    },
+    {
+      "date": "Jeu 22 mai",
+      "time": "21:11",
+      "called_location": "MONTREAL PQ",
+      "duration": "4:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "09:38",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "09:43",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "09:43",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "12:59",
+      "called_location": "MONTREAL PQ",
+      "duration": "8:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "17:29",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "17:51",
+      "called_location": "MONTREAL PQ",
+      "duration": "1:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "18:17",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    },
+    {
+      "date": "Ven 23 mai",
+      "time": "20:36",
+      "called_location": "MONTREAL PQ",
+      "duration": "2:00"
+    }
+  ]
+}
