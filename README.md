@@ -1,2 +1,2 @@
 # landingai-experiment
-landingai experiment
+landingai experiment project
