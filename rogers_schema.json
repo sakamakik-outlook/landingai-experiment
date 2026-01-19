@@ -1,0 +1,52 @@
+{
+  "title": "Mobile Usage Details Schema",
+  "description": "Schema for extracting mobile usage details, specifically voice call records, from a markdown document.",
+  "type": "object",
+  "properties": {
+    "voice_usage_records": {
+      "title": "Voice Usage Records",
+      "description": "An array of individual voice call usage records.",
+      "type": "array",
+      "items": {
+        "title": "Voice Usage Record",
+        "description": "Details for a single voice call.",
+        "type": "object",
+        "properties": {
+          "date": {
+            "title": "Date",
+            "description": "The date of the voice call.",
+            "type": "string",
+            "nullable": true
+          },
+          "time": {
+            "title": "Time",
+            "description": "The time of the voice call in HH:MM format.",
+            "type": "string",
+            "nullable": true
+          },
+          "called_location": {
+            "title": "Called Location",
+            "description": "The geographical location associated with the call.",
+            "type": "string",
+            "nullable": true
+          },
+          "duration": {
+            "title": "Duration",
+            "description": "The duration of the call in minutes and seconds (MM:SS).",
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "required": [
+          "date",
+          "time",
+          "called_location",
+          "duration"
+        ]
+      }
+    }
+  },
+  "required": [
+    "voice_usage_records"
+  ]
+}
